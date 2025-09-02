@@ -5,7 +5,8 @@ h1{
 }
 
 h2{
-    color:brown;
+    color:whitesmoke;
+    background-color:lightseagreen;
     font-size: 28px;
     font-family:'Courier New', Courier, monospace;
 }
@@ -15,6 +16,13 @@ body{
     font-size: 18px;
     color:black;
     font-family: 'Times New Roman';
+}
+
+li{
+    border: solid 2px green;
+    border-width: 5pz;
+    border-style: dashed;
+    border-color: lightcoral;
 }
 
 p{
